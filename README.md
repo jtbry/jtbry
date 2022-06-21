@@ -1,4 +1,4 @@
-Hi 👋 My name is Justin Bryant
+Hi 👋 My name is Justin
 ==============================
 I have been learning to code since I was thirteen and I am currently pursuing my Computer Science degree. I have a strong interest in back-end development and I am fascinated by the start to finish process of building, deploying and scaling applications. Most of my projects on my GitHub are either web-apps or automation.
 
