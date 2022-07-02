@@ -1,9 +1,17 @@
-Hi 👋 My name is Justin
+👋 My name is Justin
 ==============================
-I have been learning to code since I was thirteen and I am currently pursuing my Computer Science degree. I have a strong interest in back-end development and I am fascinated by the start to finish process of building, deploying and scaling applications. Most of my projects on my GitHub are either web-apps or automation.
+I started learning to code when I was thirteen by coding scripts for games. I have been in love with tech ever since. Now, I am a full-stack engineer and student. I work with a variety of languages and always adapt to the project at hand but my favorites are C#, Golang and NodeJS. I prefer working on back-end projects but I happily work in the front-end as well. Most of my projects on github are full-stack web applications.
 
-* 🌍  I'm based in North Carolina
-* ✉️  You can contact me at [justintbry@gmail.com](mailto:justintbry@gmail.com)
+* 🌍  I'm based in North Carolina
+* ✉️  You can contact me at [justintbry@gmail.com](mailto:justintbry@gmail.com)
+* 👨‍💼  [LinkedIn](https://www.linkedin.com/in/jtbry/)
+
+### Favorites
+* Language: C# (.NET Core), although Java is not my favorite it is my viable replacement because I work with it so much.
+* SPA/Front-end Framework: React.
+* CSS Framework: TailwindCSS.
+* Database: MongoDB.
+* PaaS: For personal/hobby projects it is easily Heroku. 
 
 ### Skills
 
