@@ -1,6 +1,6 @@
 👋 My name is Justin
 ==============================
-I started learning to code when I was thirteen by coding scripts for games. I have been in love with tech ever since. Now, I am a full-stack engineer and student. I work with a variety of languages and always adapt to the project at hand but my favorites are C#, Golang and NodeJS. I prefer working on back-end projects but I happily work in the front-end as well. Most of my projects on github are full-stack web applications.
+I am a full-stack engineer and student. I work with a variety of languages and always adapt to the project at hand but my favorites are C#, Golang and NodeJS. I prefer working on back-end projects but I happily work in the front-end as well. Most of my projects on github are full-stack web applications.
 
 * 🌍  I'm based in North Carolina
 * ✉️  You can contact me at [justintbry@gmail.com](mailto:justintbry@gmail.com)
