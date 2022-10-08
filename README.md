@@ -11,7 +11,6 @@ I am a full-stack engineer and student. I work with a variety of languages and a
 * SPA/Front-end Framework: React.
 * CSS Framework: TailwindCSS.
 * Database: MongoDB.
-* PaaS: For personal/hobby projects it is easily Heroku. 
 
 ### Skills
 
