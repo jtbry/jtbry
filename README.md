@@ -7,7 +7,7 @@ I am a full-stack engineer and student. I work with a variety of languages and a
 * 👨‍💼  [LinkedIn](https://www.linkedin.com/in/jtbry/)
 
 ### Favorites
-* Language: C# (.NET Core), although Java is not my favorite it is my viable replacement because I work with it so much.
+* Language: C# (.NET Core) (With Java as a close substitute).
 * SPA/Front-end Framework: React.
 * CSS Framework: TailwindCSS.
 * Database: MongoDB.
