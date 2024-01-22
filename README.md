@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Justin</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-I am a full-stack engineer with experience in software development, DevOps and cloud engineering. I work with a variety of languages and always adapt to the project at hand. I like using cutting-edge technologies to create, maintain and deploy reliable, resilient and scalable solutions. I am always excited to learn and utilize new technologies in new environments. I am available for contracted/freelance work and opensource projects.
+I am a full-stack engineer with experience in software development, DevOps and cloud engineering. I work with a variety of languages and always adapt to the project at hand. I like using cutting-edge technologies to create, maintain and deploy reliable, resilient and scalable solutions. I am always excited to learn and utilize new technologies in new environments.
 
-- 👉 I am available for contract/freelance work and open source projects. Reach out through my [UpWork profile](https://www.upwork.com/workwith/justinb36) or email: justintbry@gmail.com
+- 👉 I am available for contract/freelance work and open source projects. Reach me by email: justintbry@gmail.com
 
 - 🌎 I'm based in **Charlotte, NC**
 
