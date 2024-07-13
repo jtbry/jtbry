@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Software Engineer</h3>
 I am a full-stack engineer with experience in software development, DevOps and cloud engineering. I work with a variety of languages and always adapt to the project at hand. I like using cutting-edge technologies to create, maintain and deploy reliable, resilient and scalable solutions. I am always excited to learn and utilize new technologies in new environments.
 
-- 👉 I am available for contract/freelance work and open source projects. Reach me by email: justintbry@gmail.com
-
 - 🌎 I'm based in **Charlotte, NC**
 
 <h3 align="left">Connect with me:</h3>
